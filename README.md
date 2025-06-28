@@ -94,15 +94,7 @@ Key dependencies (see `pom.xml` for details):
 - Extend or replace the default security configuration to match your application's requirements.
 - Modify entity models and repositories as needed for your business logic.
 
-## License
-
-This project currently does not specify a license. Please add a license if you intend to share or reuse code.
 
 ## Author
 
 - [kaif77](https://github.com/kaif77)
-
----
-
-_For more details, explore the source code or visit the project on [GitHub](https://github.com/kaif77/spring-boot-security)._  
-> _Note: This README is based on available code and project metadata. For the latest and complete details, refer to the repository directly._
